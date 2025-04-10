@@ -18,9 +18,6 @@ This is my final full-stack project created during my CodeAcademy studies. The a
 **Real-time:** Socket.IO  
 **Version Control:** Git + GitHub
 
-## 📸 Screenshots
-_(Add screenshots here if you have any – helps show off your UI!)_
-
 ## 📦 Run locally
 
 ### Clone the repo
